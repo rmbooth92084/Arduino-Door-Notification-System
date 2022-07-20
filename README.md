@@ -1,4 +1,5 @@
 # Arduino Door Notification System
+
 ## Description
   This was my final CS122A arduino project that was an alarm that the user can
   and detect if their door was left open for 9 seconds or longer. After which
