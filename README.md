@@ -1,4 +1,4 @@
-# CS122A_project_2
+# Arduino Door Notification System
 ## Youtube demo link: https://youtu.be/Wr1OLhX4suo
 ## Description
   This was my final CS122A arduino project that was an alarm that the user can
